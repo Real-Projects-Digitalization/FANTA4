@@ -16,8 +16,7 @@ sort summery about the solution -> Jamin
 short conclusion -> Tatjana (out of the presentation ...)
 
 ## Test SCAN GAME
-<a href="https://github.com/Real-Projects-Digitalization/FANTA4/wiki/3.1)-Prototype-Instructions">Visit W3Schools</a>
- feel free to test SCAN GAME by your own.
+ feel free to test <a href="https://github.com/Real-Projects-Digitalization/FANTA4/wiki/3.1)-Prototype-Instructions">SCAN GAME</a> by your own.
  
  Link: https://github.com/Real-Projects-Digitalization/FANTA4/wiki/3.1)-Prototype-Instructions
 
