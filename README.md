@@ -1,7 +1,6 @@
-<h1 style="color:MediumSeaGreen;"> Project `SCAN GAME` by `FANTA4`</h1>
+# Project `SCAN GAME` by `FANTA4`
 ![test](images/pitch.png)
 
-<span style="color:blue">some *blue* text</span>
 
 We are the FANTA4 team and ..
 
