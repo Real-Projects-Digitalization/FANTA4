@@ -1,16 +1,30 @@
-# Project `SCAN GAME` by `FANTA4`
-![test](images/pitch.png)
+# Project SCAN GAME by FANTA4
 
+![pitch image](images/pitch.png)
 
-We are the FANTA4 team and ..
+## We take care of the exhibitions of TOMORROW
 
+maybe small introduction -> Basti
 
-basti was here 
+## The problem
+sort summery about the problem -> Linus
 
+## The solution
+sort summery about the solution -> Jamin
 
-https://real-projects-digitalization.github.io/FANTA4/
+## Why SCAN GAME
+short conclusion -> Tatjana (out of the presentation ...)
 
-## This is our team
+## Test SCAN GAME
+ feel free to test [SCAN GAME](https://github.com/Real-Projects-Digitalization/FANTA4/wiki/3.1\)-Prototype-Instructions) by your own.
+
+## Documentation
+[GitHub wiki](https://github.com/Real-Projects-Digitalization/FANTA4/wiki)
+
+## Our GitHub page
+[GitHub page](https://real-projects-digitalization.github.io/FANTA4/)
+
+## This is our team:
 <table>
   <tr>
     <th> Name </th>
