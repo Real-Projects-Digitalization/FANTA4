@@ -5,7 +5,7 @@ We are the FANTA4 team and ..
 
 basti was here 
 
-https://real-projects-digitalization.github.io/ss22-team-4/
+https://real-projects-digitalization.github.io/FANTA4/
 
 ## This is our team
 <table>
