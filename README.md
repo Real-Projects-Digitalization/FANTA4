@@ -1,4 +1,4 @@
-# Project SCAN GAME by FANTA4 
+## Project `SCAN GAME` by `FANTA4` 
 ![test](images/pitch.png)
 
 We are the FANTA4 team and ..
