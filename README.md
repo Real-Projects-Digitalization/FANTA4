@@ -1,9 +1,11 @@
-### Welcome to the FANTA4 team-repositorry!
+# Project SCAN GAME by FANTA4 
+![test](images/pitch.png)
 
 We are the FANTA4 team and ..
 
 
 basti was here 
+
 
 https://real-projects-digitalization.github.io/FANTA4/
 
