@@ -17,8 +17,6 @@ short conclusion -> Tatjana (out of the presentation ...)
 
 ## Test SCAN GAME
  feel free to test <a href="https://github.com/Real-Projects-Digitalization/FANTA4/wiki/3.1)-Prototype-Instructions">SCAN GAME</a> by your own.
- 
- Link: https://github.com/Real-Projects-Digitalization/FANTA4/wiki/3.1)-Prototype-Instructions
 
 ## Documentation
 [GitHub wiki](https://github.com/Real-Projects-Digitalization/FANTA4/wiki)
