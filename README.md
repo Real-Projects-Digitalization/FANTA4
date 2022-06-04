@@ -6,6 +6,10 @@
 
 maybe small introduction -> Basti
 
+We have the perfect solution to enrich exhibitions in a digital way. 
+
+I would always come up with the problem or the solution.... or the summary...
+
 ## The problem
 sort summery about the problem -> Linus
 
