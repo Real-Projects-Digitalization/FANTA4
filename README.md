@@ -4,11 +4,7 @@
 
 ## We take care of the exhibitions of TOMORROW
 
-maybe small introduction -> Basti
-
-We have the perfect solution to enrich exhibitions in a digital way. 
-
-I would always come up with the problem or the solution.... or the summary...
+Hello and welcome. We are very happy that you are visiting our GitHub Wiki. Our product will make your exhibition shine in a new light. This wiki introduces our product and contains all the documents we created during our challenge with DB Connect - Call A Bike. Enjoy your visit!
 
 ## The problem
 sort summery about the problem -> Linus
