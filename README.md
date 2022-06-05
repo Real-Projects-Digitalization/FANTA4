@@ -4,7 +4,7 @@
 
 ## We take care of the exhibitions of TOMORROW
 
-Hello and welcome. We are very happy that you are visiting our GitHub Wiki. Our product will make your exhibition shine in a new light. This wiki introduces our product and contains all the documents we created during our challenge with DB Connect - Call A Bike. Enjoy your visit!
+Hello and welcome. We are very happy that you are visiting our GitHub page. Our product will make your exhibition shine in a new light. This page introduces our product and contains a short information about the challenge with DB Connect - Call A Bike. Enjoy your visit!
 
 ## The problem
 sort summery about the problem -> Linus
