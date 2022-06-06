@@ -23,7 +23,7 @@ Our solution is designed to guide visitors through the exhibition in a playful a
 
 ## Test SCAN GAME
 
- feel free to test <a href="https://github.com/Real-Projects-Digitalization/FANTA4/wiki/3.1)-Prototype-Instructions">SCAN GAME</a> by your own.
+ Feel free to test <a href="https://github.com/Real-Projects-Digitalization/FANTA4/wiki/3.1)-Prototype-Instructions">SCAN GAME</a> by your own.
 
 ## Documentation
 
